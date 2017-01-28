@@ -1,0 +1,8 @@
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\ParavanWp.exe.config
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\ParavanWp.exe
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\ParavanWp.pdb
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.csprojResolveAssemblyReference.cache
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.Properties.Resources.resources
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.csproj.GenerateResource.Cache
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.exe
+c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.pdb
