@@ -1,8 +1,15 @@
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\ParavanWp.exe.config
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\ParavanWp.exe
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\ParavanWp.pdb
-c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.csprojResolveAssemblyReference.cache
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.Properties.Resources.resources
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.csproj.GenerateResource.Cache
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.exe
 c:\users\mashadow\documents\visual studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.pdb
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.MainForm.resources
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\Paravan.mdf
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\Paravan_log.ldf
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.dll
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.xml
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.csprojResolveAssemblyReference.cache
