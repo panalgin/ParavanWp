@@ -12,4 +12,3 @@ C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\
 C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.xml
 C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Mashadow\Documents\Visual Studio 2015\Projects\ParavanWp\ParavanWp\obj\Debug\ParavanWp.csprojResolveAssemblyReference.cache
